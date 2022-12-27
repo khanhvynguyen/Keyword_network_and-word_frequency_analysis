@@ -11,3 +11,5 @@ The second dataset is the twitter data of Elon Musk from 2017-2022 (https://www.
 - Plot histogram of word frequencies for each year
 - Use Zipf’s law and plot log-log plots of word frequencies and rank for each year
 - Create bigram network graphs for each year
+
+Jupiter Notebook: https://github.com/khanhvynguyen/Keyword_network_and_word_frequency_analysis/blob/main/keyword_netword_and_word_frequency.ipynb
